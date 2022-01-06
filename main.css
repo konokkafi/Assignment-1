@@ -1,0 +1,156 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.bottom-left{
+    margin-top: 10%;
+    padding-left: 1%;
+}
+
+.col-chang{
+    color: rgb(219, 152, 65);
+}
+
+.flex-contain{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+#create-border{
+    border-left: 5px solid ;
+    border-image: linear-gradient(rgb(226, 45, 45),rgb(194, 53, 159));
+    border-image-slice: 1;
+}
+
+.size-change{
+    width: 105%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+    padding-left: 1%;   
+
+}
+
+.size-top-change{
+    width: 105%;
+    margin-top: 5%;
+    margin-left: 15%;
+    padding-left: 1%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(206, 53, 91), tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 300;
+    border-radius: 5px;
+}
+
+.half-width{
+    width: 65%;
+    padding-left: 25%;
+}
+
+.flex-contain1{
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.centre{
+    text-align: center;
+}
+
+.experience-item1{
+    width: 24%;
+    margin-left: 7%;
+    padding-left: 5%;
+    border-radius:6px; 
+}
+.experience-item2{
+    width: 24%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 5%;
+    border-radius:6px;   
+}
+
+.experience-item3{
+    width: 24%;
+    margin-right: 5%;
+    padding-left: 5%;
+    border-radius:6px;
+    box-shadow: none;
+}
+
+.img-size{
+    width: 60%;
+}
+
+#bac-color1{
+    background-color: rgb(157, 206, 202);
+}
+
+#bac-color2{
+    background-color: rgb(184, 216, 152);
+}
+
+#bac-color3{
+    background-color: rgb(189, 124, 167);
+}
+
+.half-width1{
+    width: 65%;
+    padding-left: 15%;
+}
+
+.half-width3{
+    margin-top: 10%;
+    height: 99%;
+    width: 80%;
+    padding-left: 15%;
+    border-radius: 5%;
+       
+}
+
+.size-change-1{
+    width: 90%;
+    margin-bottom: 5%;
+}
+
+.half-width2{
+    width: 65%;
+    padding-left:25%;
+    padding-bottom: 5%;
+}
+
+.size-change-3{
+    margin-top: 2%;
+}
+
+.size-change-2{
+    width: 95%;
+    margin-bottom: 5%;
+    margin-left: 13%;
+}
+
+#bac-color{
+    color: white;
+    width: 100%;
+    height: 150px;        
+    background: black;
+}
+
+.bottom-bot{
+    padding-top: 5%;
+}
+.last-col{
+    color: rgb(211, 122, 90);
+}
+
+#top{
+    padding-top: 3%;
+}
